@@ -1,0 +1,2 @@
+GB=go install -v
+GB_RUN=which gb
